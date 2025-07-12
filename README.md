@@ -7,7 +7,7 @@ The content, structure, and implementation are subject to significant changes as
 
 ## Overview
 - **Data**: São Paulo state (Brazil) street networks data obtained from OpenStreetMap (via 'OSMnx')
-- **Metrics**: ['k_avg', 
+- **Metrics**: 'k_avg', 
                 'edge_length_avg', 
                 'streets_per_node_avg', 
                 'street_length_avg',
@@ -15,7 +15,7 @@ The content, structure, and implementation are subject to significant changes as
                 'node_density_km', 
                 'intersection_density_km', 
                 'edge_density_km', 
-                'street_density_km']
+                'street_density_km'
 - **Clustering Methods**:
   - K-means
   - DBSCAN 
