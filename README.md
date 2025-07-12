@@ -5,7 +5,7 @@ The content, structure, and implementation are subject to significant changes as
 **Focus:** Street networks across São Paulo state  
 **⚠️ Status:** Learning project, so methods and organization are evolving  :)
 
-## 📌 Quick Overview
+## Overview
 - **Data**: Street networks from OpenStreetMap (via 'OSMnx')
 - **Metrics**: ['k_avg', 
                 'edge_length_avg', 
