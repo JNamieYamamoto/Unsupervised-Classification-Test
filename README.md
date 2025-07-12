@@ -6,7 +6,7 @@ The content, structure, and implementation are subject to significant changes as
 **⚠️ Status:** Learning project, so methods and organization are evolving  :)
 
 ## Overview
-- **Data**: Street networks from OpenStreetMap (via 'OSMnx')
+- **Data**: São Paulo state (Brazil) street networks data obtained from OpenStreetMap (via 'OSMnx')
 - **Metrics**: ['k_avg', 
                 'edge_length_avg', 
                 'streets_per_node_avg', 
@@ -25,4 +25,4 @@ The content, structure, and implementation are subject to significant changes as
   
 ## Install requirements:
    ```bash
-   pip install osmnx networkx scikit-learn pandas matplotlib
+   pip install numpy pandas scikit-learn seaborn matplotlib
